@@ -1,0 +1,5 @@
+set -tmpdir "D:/ProyectosISE/PilaStackPointer/xst/projnav.tmp"
+set -xsthdpdir "D:/ProyectosISE/PilaStackPointer/xst"
+elaborate
+-ifn ApuntadorPIla.prj
+-ifmt mixed

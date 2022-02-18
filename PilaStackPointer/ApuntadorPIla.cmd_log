@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "D:/ProyectosISE/PilaStackPointer/ApuntadorPIla.xst" -ofn "D:/ProyectosISE/PilaStackPointer/ApuntadorPIla.syr" 
+xst -intstyle ise -ifn "D:/ProyectosISE/PilaStackPointer/ApuntadorPIla.xst" -ofn "D:/ProyectosISE/PilaStackPointer/ApuntadorPIla.syr" 
+xst -intstyle ise -ifn "D:/ProyectosISE/PilaStackPointer/ApuntadorPIla.xst" -ofn "D:/ProyectosISE/PilaStackPointer/ApuntadorPIla.syr" 
+xst -intstyle ise -ifn "D:/ProyectosISE/PilaStackPointer/ApuntadorPIla.xst" -ofn "D:/ProyectosISE/PilaStackPointer/ApuntadorPIla.syr" 

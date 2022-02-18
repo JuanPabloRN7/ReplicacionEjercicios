@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/ProyectosISE/PilaStackPointer/ApuntadorPIla_isim_beh.exe" -prj "D:/ProyectosISE/PilaStackPointer/ApuntadorPIla_beh.prj" "work.ApuntadorPIla" 
