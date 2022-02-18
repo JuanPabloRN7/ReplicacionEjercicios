@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/ProyectosISE/RegistroIndice/RegistroIndice_isim_beh.exe" -prj "D:/ProyectosISE/RegistroIndice/RegistroIndice_beh.prj" "RegistroIndice" 
